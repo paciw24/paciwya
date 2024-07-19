@@ -87,8 +87,8 @@ section {
 .home {
   position: relative;
   height: 150vh;
-  width: 100%;
-  background-image: url(../foto/p66.jpeg);
+  width: 20%;
+  background-image: url(foto/p66.jpeg);
   /* background-position: center; */
   background-size: cover;
   display: flex;
