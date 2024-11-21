@@ -81,13 +81,13 @@ span {
 }
 
 section {
-  padding: 160px 15% 120px;
+  padding: 10px 15% 120px;
 }
 
 .home {
-  position: relative;
-  height: 150vh;
-  width: 20%;
+  position: static;
+  height: 200vh;
+  width: 100%;
   background-image: url(foto/p66.jpeg);
   /* background-position: center; */
   background-size: cover;
